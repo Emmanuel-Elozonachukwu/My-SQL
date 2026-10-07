@@ -11,3 +11,4 @@ Here is a crime Dataset. This project focuses on importing a raw data, cleaning 
 ## Tools Used
 - MySQL
  
+## Linkedin: [LinkedIn](https://www.linkedin.com/in/emmanuel-elozonachukwu-066207310)
